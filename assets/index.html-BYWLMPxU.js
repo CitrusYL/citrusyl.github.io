@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s}from"./app-B0M5CD9_.js";const a={};function o(r,n){return s(),e("div")}const i=t(a,[["render",o]]),l=JSON.parse('{"path":"/posts/","title":"Posts","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"Posts","draft":true},"readingTime":{"minutes":0,"words":0},"git":{},"filePathRelative":null,"headers":[],"type":"posts"}');export{i as comp,l as data};
